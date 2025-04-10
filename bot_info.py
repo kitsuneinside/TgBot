@@ -1,7 +1,7 @@
 import telebot
-TOKEN_API ='6820774980:AAGnw_vdUy98n3PlmDqMk-NcYTjg4KMoRaY'
+TOKEN_API = #bot token
 
-CHANNEL = -1001698840996
+CHANNEL = -#chanel id
 
 THROTTLE_DELEY = 1 #seconds
 COOLDOWN_DELEY = 1  #minutes
